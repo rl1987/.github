@@ -1,5 +1,8 @@
-Reporting Tor vulnerabilities
-=============================
+Reporting vulnerabilities
+=========================
+
+Tor (network daemon) and Tor Browser
+------------------------------------
 
 Please report vulnerabilities and security issues to tor-security@lists.torproject.org. 
 

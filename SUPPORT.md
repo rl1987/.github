@@ -1,5 +1,8 @@
-Tor Support
-===========
+Support
+=======
+
+Tor (network daemon) and Tor Browser
+------------------------------------
 
 For FAQs and general information on using Tor, see: https://support.torproject.org/
 

@@ -1,7 +1,7 @@
-Contributing to Tor
--------------------
+Contributing
+------------
 
-### Getting started
+### Tor (network daemon)
 
 Welcome!
 
@@ -22,9 +22,6 @@ see
 
 https://gitweb.torproject.org/community/policies.git/plain/code_of_conduct.txt
 
-
-
-### License issues
 
 Tor is distributed under the license terms in the LICENSE -- in
 brief, the "3-clause BSD license".  If you send us code to
