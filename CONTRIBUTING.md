@@ -34,3 +34,10 @@ Some compatible licenses include:
   - 3-clause BSD
   - 2-clause BSD
   - CC0 Public Domain Dedication
+
+### Tor teams
+
+Tor Project is multi-disciplinary organisation spanning a variety of
+efforts for privacy and digital freedom. For a list of teams, see:
+
+https://trac.torproject.org/projects/tor/wiki/org/teams
